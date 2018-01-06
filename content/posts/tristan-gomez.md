@@ -31,4 +31,4 @@ description: "Software developer"
 
 * What is the one thing that we should have asked, but we didn't, and what's the answer?
 
-    > "Where can we find out more about you?" I write (sometimes) at my [software blog](http://life.beyondrails.com/) and my (hardware blog)[http://www.hackworkplay.com/]
+    > "Where can we find out more about you?" I write (sometimes) at my [software blog](http://life.beyondrails.com/) and my [hardware blog](http://www.hackworkplay.com/)
