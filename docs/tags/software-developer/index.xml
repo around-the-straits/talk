@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Developer on Strait Talk</title>
-    <link>https://aroundthestraits.com/talk/tags/software-developer/</link>
+    <link>https://around-the-straits.github.io/talk/tags/software-developer/</link>
     <description>Recent content in Software Developer on Strait Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://aroundthestraits.com/talk/tags/software-developer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://around-the-straits.github.io/talk/tags/software-developer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tristan Gomez</title>
-      <link>https://aroundthestraits.com/talk/posts/tristan-gomez/</link>
+      <link>https://around-the-straits.github.io/talk/posts/tristan-gomez/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://aroundthestraits.com/talk/posts/tristan-gomez/</guid>
+      <guid>https://around-the-straits.github.io/talk/posts/tristan-gomez/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Who are you and what do you do?&lt;/p&gt;
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strait Talk</title>
-    <link>https://aroundthestraits.com/talk/</link>
+    <link>https://around-the-straits.github.io/talk/</link>
     <description>Recent content on Strait Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://aroundthestraits.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://around-the-straits.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tristan Gomez</title>
-      <link>https://aroundthestraits.com/talk/posts/tristan-gomez/</link>
+      <link>https://around-the-straits.github.io/talk/posts/tristan-gomez/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://aroundthestraits.com/talk/posts/tristan-gomez/</guid>
+      <guid>https://around-the-straits.github.io/talk/posts/tristan-gomez/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Who are you and what do you do?&lt;/p&gt;
 
@@ -30,10 +30,10 @@
     
     <item>
       <title>Vincent Tan</title>
-      <link>https://aroundthestraits.com/talk/posts/vincent-tan/</link>
+      <link>https://around-the-straits.github.io/talk/posts/vincent-tan/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://aroundthestraits.com/talk/posts/vincent-tan/</guid>
+      <guid>https://around-the-straits.github.io/talk/posts/vincent-tan/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Who are you and what do you do?&lt;/p&gt;
 
