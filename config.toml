@@ -1,4 +1,4 @@
-baseURL = "https://around-the-straits.github.io/talk"
+baseURL = "http://talk.aroundthestraits.com/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Strait Talk"
