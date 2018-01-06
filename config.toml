@@ -1,0 +1,7 @@
+baseURL = "https://aroundthestraits.com/talk"
+publishDir = "docs"
+languageCode = "en-us"
+title = "Strait Talk"
+theme = "strait-talk"
+[taxonomies]
+  tag = "tags"
