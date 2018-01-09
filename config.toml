@@ -3,5 +3,6 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Strait Talk"
 theme = "strait-talk"
+googleAnalytics = "UA-112176987-1"
 [taxonomies]
   tag = "tags"
