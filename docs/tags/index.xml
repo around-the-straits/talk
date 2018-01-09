@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Strait Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://talk.aroundthestraits.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Consultant</title>
+      <link>http://talk.aroundthestraits.com/tags/consultant/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://talk.aroundthestraits.com/tags/consultant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Journalist</title>
       <link>http://talk.aroundthestraits.com/tags/journalist/</link>
-      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://talk.aroundthestraits.com/tags/journalist/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Software Developer</title>
       <link>http://talk.aroundthestraits.com/tags/software-developer/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://talk.aroundthestraits.com/tags/software-developer/</guid>
       <description></description>

@@ -1,5 +1,5 @@
 ---
-date: 2018-01-05
+date: 2018-01-02
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_scale,h_600,w_800/v1515259987/10468201_10152432784012420_589735583242894139_n_gpcxft.jpg"
 tags: ["journalist"]
 title: "Vincent Tan"

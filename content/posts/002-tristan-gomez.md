@@ -1,5 +1,5 @@
 ---
-date: 2018-01-06
+date: 2018-01-04
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,g_face,h_600,w_800/v1515263111/IMG_0239_clv0vq.jpg"
 tags: ["software developer"]
 title: "Tristan Gomez"
