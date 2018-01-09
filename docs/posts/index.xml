@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Strait Talk</title>
-    <link>http://talk.aroundthestraits.com/posts/</link>
+    <link>https://talk.aroundthestraits.com/posts/</link>
     <description>Recent content in Posts on Strait Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://talk.aroundthestraits.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://talk.aroundthestraits.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Justin Tan</title>
-      <link>http://talk.aroundthestraits.com/posts/003-justin-tan/</link>
+      <link>https://talk.aroundthestraits.com/posts/003-justin-tan/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://talk.aroundthestraits.com/posts/003-justin-tan/</guid>
+      <guid>https://talk.aroundthestraits.com/posts/003-justin-tan/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Who are you and what do you do?&lt;/p&gt;
 
@@ -30,10 +30,10 @@
     
     <item>
       <title>Tristan Gomez</title>
-      <link>http://talk.aroundthestraits.com/posts/002-tristan-gomez/</link>
+      <link>https://talk.aroundthestraits.com/posts/002-tristan-gomez/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://talk.aroundthestraits.com/posts/002-tristan-gomez/</guid>
+      <guid>https://talk.aroundthestraits.com/posts/002-tristan-gomez/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Who are you and what do you do?&lt;/p&gt;
 
@@ -47,10 +47,10 @@
     
     <item>
       <title>Vincent Tan</title>
-      <link>http://talk.aroundthestraits.com/posts/001-vincent-tan/</link>
+      <link>https://talk.aroundthestraits.com/posts/001-vincent-tan/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://talk.aroundthestraits.com/posts/001-vincent-tan/</guid>
+      <guid>https://talk.aroundthestraits.com/posts/001-vincent-tan/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Who are you and what do you do?&lt;/p&gt;
 

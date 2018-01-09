@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Strait Talk</title>
-    <link>http://talk.aroundthestraits.com/tags/</link>
+    <link>https://talk.aroundthestraits.com/tags/</link>
     <description>Recent content in Tags on Strait Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://talk.aroundthestraits.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://talk.aroundthestraits.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Consultant</title>
-      <link>http://talk.aroundthestraits.com/tags/consultant/</link>
+      <link>https://talk.aroundthestraits.com/tags/consultant/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://talk.aroundthestraits.com/tags/consultant/</guid>
+      <guid>https://talk.aroundthestraits.com/tags/consultant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journalist</title>
-      <link>http://talk.aroundthestraits.com/tags/journalist/</link>
+      <link>https://talk.aroundthestraits.com/tags/journalist/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://talk.aroundthestraits.com/tags/journalist/</guid>
+      <guid>https://talk.aroundthestraits.com/tags/journalist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Developer</title>
-      <link>http://talk.aroundthestraits.com/tags/software-developer/</link>
+      <link>https://talk.aroundthestraits.com/tags/software-developer/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://talk.aroundthestraits.com/tags/software-developer/</guid>
+      <guid>https://talk.aroundthestraits.com/tags/software-developer/</guid>
       <description></description>
     </item>
     
