@@ -23,7 +23,7 @@ description: "Software developer"
 
 * The one thing you regret the most.
 
-    > I wish I could have started my software development career 10 years earlier. I feel I could have accomplished so much more if I had the courage them to pursue what I was passionate about, rather than doing what I felt was the "safe" career.
+    > I wish I could have started my software development career 10 years earlier. I feel I could have accomplished so much more if I had the courage then to pursue what I was passionate about, rather than doing what I felt was the "safe" career.
 
 * What is the one thing you've learned and want to pass on to the next generation?
 
