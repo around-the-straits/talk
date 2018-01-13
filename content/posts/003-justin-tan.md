@@ -31,4 +31,4 @@ description: "Management Consultant"
 
 * What is the one thing that we should have asked, but we didn't, and what's the answer?
 
-    > "What is one thing I'm grateful for in my life?" My wife, my family, my friends, people who have helped me and stuck by me even when I don't deserve it; or especially when I don't deserve it.
+    > **What is one thing I'm grateful for in my life?** My wife, my family, my friends, people who have helped me and stuck by me even when I don't deserve it; or especially when I don't deserve it.

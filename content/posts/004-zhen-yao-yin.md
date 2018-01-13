@@ -31,4 +31,4 @@ description: "Works at a bank"
 
 * What is the one thing that we should have asked, but we didn't, and what's the answer?
 
-    > "If money weren’t an issue and you could do anything you want for a living, what would that be?" It’s a toss up between being a host for a travel show or doing musical theatre. However, my rational mind thought better of it so I pursued a stable, corporate job instead.
+    > **If money weren’t an issue and you could do anything you want for a living, what would that be?** It’s a toss up between being a host for a travel show or doing musical theatre. However, my rational mind thought better of it so I pursued a stable, corporate job instead.

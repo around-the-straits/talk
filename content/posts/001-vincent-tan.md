@@ -29,4 +29,4 @@ description: "Investigative journalist"
 
 * What is the one thing that we should have asked, but we didn't, and what's the answer?
 
-    > Would you like to go out for a cup of coffee. The answer might more often than not, be no though (bwahahahaha).
+    > **Would you like to go out for a cup of coffee?** The answer might more often than not, be no though (bwahahahaha).
