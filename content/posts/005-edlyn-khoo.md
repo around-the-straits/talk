@@ -1,5 +1,5 @@
 ---
-date: "2018-01-16T00:00:00+08:00"
+date: "2018-01-16T00:30:00+08:00"
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,e_auto_color,g_face,h_600,w_800,z_1/v1515960310/26855126_10155654657161693_669529040_o_gsxp9y.jpg"
 tags: ["marketer"]
 title: "Edlyn Khoo"
