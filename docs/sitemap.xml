@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://talk.aroundthestraits.com/posts/006-andrew-cua/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talk.aroundthestraits.com/posts/005-edlyn-khoo/</loc>
     <lastmod>2018-01-16T00:30:00+08:00</lastmod>
   </url>
@@ -40,6 +45,12 @@
   </url>
   
   <url>
+    <loc>https://talk.aroundthestraits.com/tags/entrepreneur/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://talk.aroundthestraits.com/tags/journalist/</loc>
     <lastmod>2018-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -53,7 +64,7 @@
   
   <url>
     <loc>https://talk.aroundthestraits.com/posts/</loc>
-    <lastmod>2018-01-16T00:30:00+08:00</lastmod>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,7 +76,7 @@
   
   <url>
     <loc>https://talk.aroundthestraits.com/</loc>
-    <lastmod>2018-01-16T00:30:00+08:00</lastmod>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
