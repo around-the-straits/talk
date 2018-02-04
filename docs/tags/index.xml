@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Strait Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://talk.aroundthestraits.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://talk.aroundthestraits.com/tags/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://talk.aroundthestraits.com/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Banker</title>
