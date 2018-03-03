@@ -1,5 +1,5 @@
 ---
-date: 2018-03-01
+date: 2018-02-15
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,g_face,h_600,w_800/v1520084723/WhatsApp_Image_2018-02-26_at_9.46.36_AM_qpgaou.jpg"
 tags: ["consulting"]
 title: "Alvin Chan"
