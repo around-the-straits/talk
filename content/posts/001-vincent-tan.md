@@ -1,7 +1,7 @@
 ---
 date: 2018-01-02
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,g_face,h_600,w_800/v1515847132/13241403_1602553706739214_3345379874556840045_n_nzlhnl.jpg"
-tags: ["journalist"]
+tags: ["journalism"]
 title: "Vincent Tan"
 description: "Investigative journalist"
 ---

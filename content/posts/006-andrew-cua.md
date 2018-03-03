@@ -1,7 +1,7 @@
 ---
 date: 2018-01-18
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,g_face,h_600,w_800/v1515846383/26909769_10204125687578649_1067171174_o_thijbn.jpg"
-tags: ["entrepreneur"]
+tags: ["entrepreneurship"]
 title: "Andrew Cua"
 description: "Founder, Tralulu"
 ---

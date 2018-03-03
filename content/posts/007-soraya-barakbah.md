@@ -1,7 +1,7 @@
 ---
 date: 2018-02-01
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,h_600,w_800/v1517731684/image1_uucity.jpg"
-tags: ["banker"]
+tags: ["banking"]
 title: "Soraya Barakbah"
 description: "Not a Banker"
 ---

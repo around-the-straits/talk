@@ -1,7 +1,7 @@
 ---
 date: 2018-01-09
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,g_face,w_800/v1515486171/JT_photo_4x3_gjgsl4.jpg"
-tags: ["consultant"]
+tags: ["consulting"]
 title: "Justin Tan"
 description: "Management Consultant"
 ---

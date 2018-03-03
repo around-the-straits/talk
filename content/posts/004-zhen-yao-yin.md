@@ -1,7 +1,7 @@
 ---
 date: 2018-01-11
 featured_image: "https://res.cloudinary.com/around-the-straits/image/upload/c_fill,g_face,w_800/v1515709803/Zhen_Mekong_xqsruf.jpg"
-tags: ["banker"]
+tags: ["banking"]
 title: "Zhen Yao Yin"
 description: "Works at a bank"
 ---
