@@ -7,7 +7,7 @@ description: "Volunteer"
 ---
 * Who are you and what do you do?
 
-    >  II'm Rachael and I was previously a management consultant for 6 years, however I left that line of work to be involved in Christian missions work in Mozambique, Africa.
+    >  I'm Rachael and I was previously a management consultant for 6 years, however I left that line of work to be involved in Christian missions work in Mozambique, Africa.
 
 <!--more-->
 
