@@ -30,6 +30,10 @@ description: "Life Explorer"
     > Worrying about my life plan and that I don’t care for the people I love enough. Oh and procrastination.
 
 * The one thing you regret the most.
+    
+    > Not making the most of learning opportunities when I was younger. I wish I took piano lessons more seriously. Not being able to play a piece of music I love or to play to accompany my singing is a real handicap.
+
+* What is the one thing you've learned and want to pass on to the next generation?
 
     > This is a tough one. I think it’s so hard to pass anything useful on to the next generation because the world is changing so quickly. Plus thinking in terms of generations seems solipsistic---people born in 1989 across the world are living such different lives with different problems and aspirations. I could say, for example, that money isn’t everything---but that is not advice that would have applied to my parents or a lot of people in the world today.
 
@@ -37,6 +41,6 @@ description: "Life Explorer"
     
     > That’s my theory at least. I am still mainly a judgmental irritable grouchy old hag though.
 
-* What is the one thing you've learned and want to pass on to the next generation?
+* What is the one thing that we should have asked, but we didn't, and what's the answer?
 
     > **“Tell me about the last time you felt happy.”** I think I got that from The Hours. Unfortunately after 6 attempts googling with different keyword combinations I am unable to verify this. Anyway, to answer the question---the last time I was happy was actually the whole of last weekend, which I spent exploring Chiang Mai on my own. It’s a wonderful thing to meander about a new place alone. You go wherever your curiosity or fancy takes you, observing the world go about its business, and then occasionally find yourself having unexpected conversations with strangers at unexpected moments.
