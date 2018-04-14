@@ -30,3 +30,12 @@ article ul li p {
 article ul li blockquote p {
   margin-bottom: .5em;
 }
+
+article ul li ul.sub-list {
+  list-style: disc;
+  padding-left: 3em;
+}
+
+article ul li ul.sub-list li {
+  font-weight: normal;
+}
